@@ -1,0 +1,30 @@
+{
+  "name": "den-warehouse",
+  "version": "1.0.0",
+  "description": "Warehouse of the Webden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aa20475/den.git"
+  },
+  "keywords": [
+    "den",
+    "web"
+  ],
+  "author": "destinygamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aa20475/den/issues"
+  },
+  "homepage": "https://github.com/Aa20475/den#readme",
+  "dependencies": {
+    "async": "^3.2.1",
+    "express": "^4.17.1",
+    "ftp-srv": "^4.5.0",
+    "glob": "^7.1.7",
+    "lodash": "^4.17.21"
+  }
+}
